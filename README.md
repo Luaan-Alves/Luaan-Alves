@@ -44,4 +44,4 @@
 </div>
 
 
-![Snake animation](https://github.com/Luaan-Alves/Luaan-Alves/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Luaan-Alves/Luaan-Alves/blob/main/.github/workflows/github-contribution-grid-snake-dark.svg)
