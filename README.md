@@ -42,3 +42,6 @@
   <img alt="Ir para Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
+
+
+![Snake animation](https://github.com/Luaan-Alves/Luaan-Alves/blob/output/github-contribution-grid-snake.svg)
