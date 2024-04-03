@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Copperplate+Gothic&weight=700&size=24&duration=2700&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+eu+sou+o+Luan;Sou+um+desenvolvedor+FrontEnd;Seja+bem+vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
+<img width=100% alt="imagem de cabeçalho" src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=WELCOME&animation=twinkling&reversal=true&fontSize=50">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=2700&pause=1000&color=268D6D&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1!+eu+sou+o+Luan;Sou+um+desenvolvedor+FrontEnd+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Seja+bem+vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
+
+##
 
 - 🔭 Sou desenvolvedor FrontEnd 
 - 🌱 Estudando ReactJS e NodeJS
