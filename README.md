@@ -10,14 +10,18 @@
 ##
 
 
-<div style="display: inline-block;">
+<div style="display: inline-block; opacity: 0.8;">
   <a href="https://github.com/Luaan-Alves/github-readme-stats">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=Luaan-Alves&theme=gotham" />
-  </a>
-  <a href="https://github.com/Luaan-Alves/convoychat">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luaan-Alves&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Luaan-Alves&theme=gotham" />
   </a>
 </div>
+
+<div style="display: inline-block; opacity: 0.8;">
+  <a href="https://github.com/Luaan-Alves/convoychat">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luaan-Alves&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+  </a>
+</div>
+
 
 <div style="dispaly: inline_block" ><br>
   <img align="center" style="width: 50px" alt="Luan-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
