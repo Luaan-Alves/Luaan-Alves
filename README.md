@@ -44,7 +44,7 @@
   <a href="https://www.instagram.com/lluan_alves/" target="_blank">
   <img alt="Ir para Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  <a href="https://discord.com/channels/@me" target="_blank">
   <img alt="Ir para Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
