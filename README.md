@@ -1,4 +1,4 @@
-<h2>Olá! eu sou o Luan Alves</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Copperplate+Gothic&weight=700&size=24&duration=2700&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+eu+sou+o+Luan;Sou+um+desenvolvedor+FrontEnd;Seja+bem+vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 
 - 🔭 Sou desenvolvedor FrontEnd 
@@ -10,20 +10,18 @@
 ##
 
 
-<div style="display: inline-block; opacity: 0.8;">
+<div align="center">
   <a href="https://github.com/Luaan-Alves/github-readme-stats">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Luaan-Alves&theme=gotham" />
+    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=Luaan-Alves&theme=gotham&hide_border=true" />
   </a>
-</div>
-
-<div style="display: inline-block; opacity: 0.8;">
   <a href="https://github.com/Luaan-Alves/convoychat">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luaan-Alves&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luaan-Alves&layout=compact&langs_count=8&theme=gotham&hide_border=true" />
   </a>
 </div>
 
+##
 
-<div style="dispaly: inline_block" ><br>
+<div align="center"><br>
   <img align="center" style="width: 50px" alt="Luan-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" style="width: 50px" alt="Luan-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" style="width: 50px" alt="Luan-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -32,7 +30,7 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/luan-alves-pereira-a86118268/" target="_blank">
   <img alt="Ir para Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -47,5 +45,3 @@
   </a>
 </div>
 
-
-![Snake animation](https://raw.githubusercontent.com/Luaan-Alves/Luaan-Alves/main/.github/workflows/github-contribution-grid-snake-dark.svg)
