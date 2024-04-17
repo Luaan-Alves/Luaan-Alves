@@ -34,14 +34,8 @@
 ##
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luan-alves-pereira-a86118268/" target="_blank">
-  <img alt="Ir para Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:luan-alves-dev@hotmail.com" target="_blank">
-  <img alt="Ir para Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/lluan_alves/" target="_blank">
-  <img alt="Ir para Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+   <a href="https://www.linkedin.com/in/luan-alves-pereira-a86118268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="mailto:luan-alves-dev@hotmail.com" target="_blank"><img alt="Ir para Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+   <a href="https://www.instagram.com/lluan_alves/" target="_blank"><img alt="Ir para Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
