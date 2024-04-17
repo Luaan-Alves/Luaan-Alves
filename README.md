@@ -39,9 +39,3 @@
    <a href="https://www.instagram.com/lluan_alves/" target="_blank"><img alt="Ir para Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<script>
-   document.querySelectorAll('a').forEach(item => {
-      item.setAttribute('target', '_blank');
-   });
-</script>
-
