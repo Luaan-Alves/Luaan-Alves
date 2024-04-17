@@ -15,10 +15,10 @@
 
 
 <div align="center">
-  <a href="https://github.com/Luaan-Alves/github-readme-stats">
+  <a href="https://github.com/Luaan-Alves">
     <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=Luaan-Alves&theme=gotham&hide_border=true" />
   </a>
-  <a href="https://github.com/Luaan-Alves/convoychat">
+  <a href="https://github.com/Luaan-Alves">
     <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luaan-Alves&layout=compact&langs_count=8&theme=gotham&hide_border=true" />
   </a>
 </div>
