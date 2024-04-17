@@ -8,7 +8,6 @@
 - 🔭 Sou desenvolvedor FrontEnd 
 - 🌱 Estudando ReactJS e NodeJS
 - 📫 Contate-me no email: luan-alves-dev@hotmail.com
-- 😄 Pronouns: ele/dele
 
 
 ##
