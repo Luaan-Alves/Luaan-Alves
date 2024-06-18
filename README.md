@@ -1,7 +1,6 @@
+<img width=100% alt="imagem de cabeçalho" src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=BEM-VINDO&animation=twinkling&reversal=true&fontSize=50">
 
-<img width=100% alt="imagem de cabeçalho" src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=WELCOME&animation=twinkling&reversal=true&fontSize=50">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=2700&pause=1000&color=268D6D&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1!+eu+sou+o+Luan;Sou+um+desenvolvedor+FrontEnd+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Seja+bem+vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=2700&pause=1000&color=268D6D&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1!+eu+sou+o+Luan;Sou+um+desenvolvedor+FrontEnd+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ##
 
@@ -15,7 +14,7 @@
 
 <div style="display: flex;">
    <a href="https://github.com/Luaan-Alves">
-      <img width="390px" src="https://github-readme-stats.vercel.app/api?username=Luaan-Alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img width="387px" src="https://github-readme-stats.vercel.app/api?username=Luaan-Alves&show_icons=true&theme=tokyonight"/>
    </a>
    <a href="https://github.com/Luaan-Alves">
       <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaan-Alves&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -38,4 +37,5 @@
    <a href="mailto:luan-alves-dev@hotmail.com" target="_blank"><img alt="Ir para Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
    <a href="https://www.instagram.com/lluan_alves/" target="_blank"><img alt="Ir para Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
+
 
