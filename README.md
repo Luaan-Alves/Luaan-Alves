@@ -14,10 +14,10 @@
 
 <div style="display: flex;">
    <a href="https://github.com/Luaan-Alves">
-      <img width="445px" src="https://github-readme-stats.vercel.app/api?username=Luaan-Alves&show_icons=true&theme=tokyonight"/>
+      <img width="300px" src="https://github-readme-stats.vercel.app/api?username=Luaan-Alves&show_icons=true&theme=tokyonight"/>
    </a>
    <a href="https://github.com/Luaan-Alves">
-      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaan-Alves&layout=compact&langs_count=6&theme=tokyonight"/>
+      <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaan-Alves&layout=compact&langs_count=6&theme=tokyonight"/>
    </a>
 </div>
 
